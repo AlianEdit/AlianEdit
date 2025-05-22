@@ -1,77 +1,69 @@
-<h1 align="center">👋 السلام عليكم، أنا Dinho</h1>
-<p align="center">مبرمج ومطور بوتات ديال Discord، مواقع ويب، وتطبيقات ذكاء اصطناعي.</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Amiri&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85+%D8%B9%D9%84%D9%8A%D9%83%D9%85+%D8%B1%D8%AD%D8%A8%D9%88+%D8%A8%D9%8A%D8%A7%F0%9F%91%8B;Dinho+%D9%87%D9%86%D8%A7+%D9%85%D8%B9%D8%A7%D9%83%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
+
+<p align="center">مبرمج بوتات Discord، مواقع ويب، وذكاء صناعي + ألعاب</p>
 
 ---
 
-### 🧠 شكون أنا؟
+## 🧠 شكون أنا؟
 
-- 🎮 كنخدم على مشاريع Discord Bots متطورة
-- 🧪 مهتم بالـ AI (GPT, ML, Face Detection…)
-- 🌐 كنصمّم مواقع ويب بـ HTML, CSS, JS, Flask
-- 🕹️ كنخدم ألعاب بـ Godot وUnity
-- 📍 نطمح نبني Game Engine ديالي من الصفر
+- 🎮 مطور Discord Bots متطورين
+- 🤖 ديزاين وأوتوميشن بالـ AI
+- 🧠 Face Detection، GPT، Chatbots بلغات متعددة
+- 🕹️ Godot و Unity لصناعة ألعاب
+- 🧱 نبني Game Engine خاص
 
 ---
 
-### 🔗 تواصل معايا:
+## 🔥 المهارات:
 
 <p align="center">
-  <a href="https://discord.gg/yourdiscordlink">
-    <img src="https://img.shields.io/badge/Discord-Dinho%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-@dinho-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,discord,godot,github&theme=dark"/>
 </p>
 
 ---
 
-### 🧰 المهارات والأدوات:
+## 🔗 تواصل معايا:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <a href="https://discord.gg/YOUR_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-Dinho%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-@dinho-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 📊 الإحصائيات ديالي:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react&hide_border=true"/>
 </p>
 
 ---
 
-### ⚡ شوية حركة:
+## 🎯 المشاريع ديالي دابا:
+
+- 🎵 Discord Music Bot فيه Spotify + YouTube
+- 🤖 AI Assistant عربي
+- 🛍️ موقع E-Commerce بلغة عربية
+- 👻 لعبة رعب Godot
+- 🌐 Web Login OAuth2 + Flask
+
+---
+
+## 🧠 الأنميشن الزوين:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/>
 </p>
 
 ---
 
-### 📌 مشاريع خدام عليهم دابا:
-
-- 🎵 Discord Music Bot فيه Spotify وYouTube
-- 💬 AI Chatbot بلغات متعددة (عربية، فرنسية، إنجليزية)
-- 👻 لعبة رعب بـ Godot
-- 🛍️ موقع E-Commerce بـ Flask وHTML/CSS
-
----
-
-> 💡 بغيت شي حاجة أكثر تخصيص (ستايل بالألوان ديالك، خلفية، أنيميشن، أو أفكار ديال براند)، قولّي وندير ليك نسخة خاصة.
+> 💬 إيلا بغيتي ندير ليك `GIF`, `background`, ولا Portfolio Style ونعملو Preview خارجي (بـ GitHub Pages)، نقدر نحطو فـ رابط خارجي فيه JavaScript وCSS.
 
