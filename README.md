@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%D8%B1%D8%AD%D8%A8%D9%88+%D8%A8%D9%8A%D8%A7+%D9%81%D9%8A+%D8%B9%D8%A7%D9%84%D9%85+%D8%A7%D9%84%D8%B4%D9%81%D8%B1%D8%A9+%F0%9F%95%B7%EF%B8%8F;Coder+%F0%9F%A4%96+Dinho+%7C+AI%2FWeb%2FBots+%F0%9F%94%97;Welcome+To+The+Terminal+%F0%9F%94%9C+Stay+Sharp+...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Salam+3likom%2C+Ana+Dinho;Coder+%F0%9F%94%A5+Web%2FBot%2FAI%2FGame+Dev;Kayn+Chi+7rira+F+Terminal+%F0%9F%95%B7%EF%B8%8F">
 </h1>
 
 <p align="center">
@@ -14,48 +14,53 @@
 
 ---
 
-## 👁️ شكون أنا؟
+## 👽 شكون هاد Dinho؟
 
-- ⚙️ Dev Cyber-Punk كيدير Discord Bots + Web + AI
-- 🧠 كنخدم Chatbots بلغات مختلفة + Face Recognition
-- 🕹️ كنبرمج ألعاب بذكاء اصطناعي
-- 🔐 نطمح نبني Game Engine مغربي 💪
-- 🧬 مبرمج تحت الضغط بزاف 💻
+- 🔥 مبرمج Cyberpunk كيدير Bots ديال Discord من صفر  
+- 🧠 خدام على مشاريع AI فـ Chatbot وFace Recognition  
+- 🕹️ كيبرمج ألعاب بالرعب والذكاء الصناعي  
+- 🌐 كيدير مواقع Web ستايل عصري وUI خطير  
+- 🔧 الهدف: نبني Game Engine ديالي من تحت لفوق  
 
 ---
 
-## ⚒️ Skills
+## 🛠️ المهارات:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,discord,github,godot,unity,vscode,linux&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,discord,godot,unity,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-## 🧭 فين تلقاني؟
+## 🔗 تواصل معايا:
 
 <p align="center">
-  <a href="https://discord.gg/YOUR_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discord.gg/WU6N3q2zXh">
+    <img src="https://img.shields.io/badge/Discord-Dinho%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/YOUR_INSTA">
-    <img src="https://img.shields.io/badge/Instagram-@dinho-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://instagram.com/alianedit">
+    <img src="https://img.shields.io/badge/Instagram-@alianedit-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 الإحصائيات:
+## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&hide_title=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-## 💻 النظام شغال...
+## 🚀 النشاط ديالي:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔐 النظام خدام...
 
