@@ -64,6 +64,3 @@
 </p>
 
 ---
-
-> 💬 إيلا بغيتي ندير ليك `GIF`, `background`, ولا Portfolio Style ونعملو Preview خارجي (بـ GitHub Pages)، نقدر نحطو فـ رابط خارجي فيه JavaScript وCSS.
-
