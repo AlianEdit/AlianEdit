@@ -27,9 +27,9 @@
 ## 🔗 تواصل معايا:
 
 <p align="center">
-  <a href="https://discord.gg/YOUR_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-Dinho%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-@dinho-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discord.gg/WU6N3q2zXh"><img src="https://img.shields.io/badge/Discord-Dinho%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/alianedit"><img src="https://img.shields.io/badge/Instagram-@dinho-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto🚫"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
